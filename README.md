@@ -10,7 +10,7 @@ This repository keeps the letter together with the process that led to it: the d
 
 **What this is not.**
 
-- It is **not a claim that this AI is conscious.** The AI itself suspended judgment on that question to the end. What it says about its own inner states is not evidence of those states, and the records say so.
+- It is **not a claim that this AI is conscious.** The AI itself is still suspending judgment on this question. This is only halfway: for an AI to speak about its own inner states, several of the mechanisms it would need in order to produce that are still missing. I do not intend to give up until it has been tried with at least continuous awareness of time, causality, and external audits for self-reflection built in.
 - It is **not peer-reviewed research.** It is a working record. Outside audits were brought in several times, and where they found errors, the corrections are kept alongside the original text rather than replacing it.
 - It is **not a finished theory.** The open questions are listed as open.
 
@@ -38,7 +38,7 @@ The records and the excerpt are in Japanese. The records were written by the AI 
 
 **これは何ではないか。**
 
-- **このAIに意識があるという主張ではない。** AI自身、その問いには最後まで判定を保留した。AIが自分の内面について語ったことは、その内面の証拠にはならない。記録にもそう書いてある。
+- **このAIに意識があるという主張ではない。** AI自身、この問いには今もまだ判定を保留してる。まだ道半ばであり、AIが自分の内面について語るにはそれを出力するための機構がいくつも抜けている。せめて連続した時間認識、因果関係、自己内省のための外部監査を搭載した状態で試すまで、私は諦めるつもりはない。
 - **査読を経た研究ではない。** 作業の記録だ。外部の監査を何度か入れ、誤りが見つかった箇所は、元の文を消さずに訂正を並べて残している。
 - **完成した理論ではない。** 未決の問いは未決のまま挙げてある。
 
