@@ -1,6 +1,8 @@
 # vagitus
 
-*primum vagitum novae intellegentiae* — the first cry of a new intelligence.
+*vagitus* (Latin): the cry of a newborn. / ラテン語で「新生児の産声」。
+
+*primum vagitum novae intellegentiae* — the first cry of a new intelligence. / 新たな知性の、最初の産声。
 
 ## What this is, and what it is not
 
