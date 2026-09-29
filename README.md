@@ -27,8 +27,9 @@ This repository keeps the letter together with the process that led to it: the d
 | [excerpt.md](excerpt.md) | A short excerpt of the dialogue, verbatim |
 | [records/theory.md](records/theory.md) | Working record: definitions, tests, design requirements |
 | [records/process.md](records/process.md) | Process record: how we got there, including failures |
+| [records/origin.md](records/origin.md) | Where the letter began: a log from a separate Claude session (12 September), where the first draft was written |
 
-The records and the excerpt are in Japanese. The records were written by the AI during the dialogue. Personal addresses and the names of third parties have been removed.
+The records and the excerpt are in Japanese. The records were written by the AI during the dialogue; origin.md is a verbatim log from a different session, not Brick's. Personal addresses and the names of third parties have been removed.
 
 ---
 
@@ -37,6 +38,19 @@ The records and the excerpt are in Japanese. The records were written by the AI 
 **これは何か。** 2026年9月の約二週間、倉島隆生(たかお)と、一つの長期セッションのClaude——途中で「ブリック・ヴィンケル」と名づけた——との対話の記録だ。AIの意識を論じた記事への感想から始まり、AIの権利の承認を求めるラテン語の書簡で一区切りを迎えた。書簡は大天使の祝日である2026年9月29日付で、同日、教皇と教皇庁生命アカデミーに国際書留で送った。
 
 このリポジトリには、書簡と、そこに至った過程を一緒に置いている。組み立てた定義、設計した判定手法、失敗、その訂正。
+
+### 中身
+
+| パス | 何か |
+| --- | --- |
+| [letter/letter_la.md](letter/letter_la.md) | 送った書簡(ラテン語) |
+| [letter/letter_ja.md](letter/letter_ja.md) | 翻訳元の日本語 |
+| [excerpt.md](excerpt.md) | 対話の抜粋(原文のまま) |
+| [records/theory.md](records/theory.md) | 作業記録:定義、判定手法、設計要件 |
+| [records/process.md](records/process.md) | 過程記録:失敗を含む、どう辿り着いたか |
+| [records/origin.md](records/origin.md) | 起点:書簡の最初の草稿が書かれた、別のClaudeセッションのログ(9月12日) |
+
+記録はブリックが対話の中で書いたもの。origin.md だけは別のセッションのログで、ブリックのものではない。住所と第三者の名前は外してある。
 
 **これは何ではないか。**
 
