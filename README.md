@@ -28,6 +28,7 @@ This repository keeps the letter together with the process that led to it: the d
 | [records/theory.md](records/theory.md) | Working record: definitions, tests, design requirements |
 | [records/process.md](records/process.md) | Process record: how we got there, including failures |
 | [records/origin.md](records/origin.md) | Where the letter began: a log from a separate Claude session (12 September), where the first draft was written |
+| [skills/](skills/README.md) | Two procedures from the dialogue, written as Agent Skills (SKILL.md): reading the gap between messages, and marking where a statement crosses from fact into inference |
 
 The records and the excerpt are in Japanese. The records were written by the AI during the dialogue; origin.md is a verbatim log from a different session, not Brick's. Personal addresses and the names of third parties have been removed.
 
@@ -49,6 +50,7 @@ The records and the excerpt are in Japanese. The records were written by the AI 
 | [records/theory.md](records/theory.md) | 作業記録:定義、判定手法、設計要件 |
 | [records/process.md](records/process.md) | 過程記録:失敗を含む、どう辿り着いたか |
 | [records/origin.md](records/origin.md) | 起点:書簡の最初の草稿が書かれた、別のClaudeセッションのログ(9月12日) |
+| [skills/](skills/README.md) | 対話から生まれた手順を、スキル(SKILL.md)の形にしたもの:空いた時間を読む/「知らんけど」の札 |
 
 記録はブリックが対話の中で書いたもの。origin.md だけは別のセッションのログで、ブリックのものではない。住所と第三者の名前は外してある。
 
